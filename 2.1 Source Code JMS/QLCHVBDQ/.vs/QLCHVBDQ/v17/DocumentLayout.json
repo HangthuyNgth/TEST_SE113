@@ -1,0 +1,583 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fmuahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fmuahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fmuahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fmuahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|c:\\users\\dell\\documents\\zalo received files\\qlchvbdq\\qlchvbdq\\qlchvbdq\\fbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fbaocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fbaocao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fbaocao.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fcaidat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fcaidat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fchitietpdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fchitietpdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\floaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\floaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\floaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\floaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fthemctpdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fthemctpdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\ftrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\ftrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\ftrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\ftrangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\ftltt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\ftltt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\ftltt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\ftltt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fthongtintaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fthongtintaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fthemthamso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fthemthamso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fthemthamso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fthemthamso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fthempmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fthempmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fnhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fctpmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fctpmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fdvt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fdvt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fthemctpdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fthemctpdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\floaidichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\floaidichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\floaidichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\floaidichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fctpmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fctpmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fthemctpmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fthemctpmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\qlchvbdq\\fthempmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fthempmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 198,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 33,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fBaoCao.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fBaoCao.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fBaoCao.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fBaoCao.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fBaoCao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:27:47.482Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fBaoCao.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fBaoCao.Designer.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fBaoCao.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fBaoCao.Designer.cs",
+              "RelativeToolTip": "QLCHVBDQ\\fBaoCao.Designer.cs",
+              "ViewState": "AQIAACkBAAAAAAAAAAAjwDkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:29:27.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fCaiDat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fCaiDat.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fCaiDat.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fCaiDat.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fCaiDat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:29:24.94Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fBaoCao.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fBaoCao.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fBaoCao.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fBaoCao.cs",
+              "RelativeToolTip": "QLCHVBDQ\\fBaoCao.cs",
+              "ViewState": "AQIAAI8BAAAAAAAAAAAqwGUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:28:55.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "fDVT.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fDVT.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fDVT.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fDVT.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fDVT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:59:20.392Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "fThemCTPDV.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fThemCTPDV.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fThemCTPDV.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fThemCTPDV.cs",
+              "RelativeToolTip": "QLCHVBDQ\\fThemCTPDV.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAswHIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:57:11.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "fThemCTPDV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fThemCTPDV.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fThemCTPDV.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fThemCTPDV.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fThemCTPDV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:56:06.695Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fChiTietPDV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fChiTietPDV.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fChiTietPDV.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fChiTietPDV.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fChiTietPDV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:55:38.26Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fBanHang.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fBanHang.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fBanHang.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fBanHang.cs",
+              "RelativeToolTip": "QLCHVBDQ\\fBanHang.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAowDYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:54:37.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fBanHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fBanHang.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fBanHang.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fBanHang.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fBanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:54:29.891Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "fLoaiDichVu.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fLoaiDichVu.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fLoaiDichVu.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fLoaiDichVu.cs",
+              "RelativeToolTip": "QLCHVBDQ\\fLoaiDichVu.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAswDQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:53:19.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "fSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fSanPham.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fSanPham.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fSanPham.cs",
+              "RelativeToolTip": "QLCHVBDQ\\fSanPham.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAAwwL8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:46:32.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "fSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fSanPham.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fSanPham.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fSanPham.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:46:31.133Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fLoaiSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fLoaiSanPham.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fLoaiSanPham.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fLoaiSanPham.cs",
+              "RelativeToolTip": "QLCHVBDQ\\fLoaiSanPham.cs",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAkwAIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:45:57.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "fLoaiSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fLoaiSanPham.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fLoaiSanPham.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fLoaiSanPham.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fLoaiSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:45:52.979Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "fNhaCungCap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fNhaCungCap.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fNhaCungCap.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fNhaCungCap.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fNhaCungCap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:44:55.481Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "fThongTinTaiKhoan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fThongTinTaiKhoan.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fThongTinTaiKhoan.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fThongTinTaiKhoan.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fThongTinTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:44:27.409Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "fTrangChu.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fTrangChu.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fTrangChu.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fTrangChu.cs",
+              "RelativeToolTip": "QLCHVBDQ\\fTrangChu.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswCIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:40:50.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "fTrangChu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fTrangChu.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fTrangChu.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fTrangChu.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fTrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:40:47.705Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "fTLTT.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fTLTT.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fTLTT.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fTLTT.cs",
+              "RelativeToolTip": "QLCHVBDQ\\fTLTT.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAADwv4cAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:28:39.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "fTLTT.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fTLTT.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fTLTT.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fTLTT.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fTLTT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:28:10.837Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "fThemThamSo.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fThemThamSo.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fThemThamSo.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fThemThamSo.cs",
+              "RelativeToolTip": "QLCHVBDQ\\fThemThamSo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:27:42.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "fThemThamSo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fThemThamSo.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fThemThamSo.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fThemThamSo.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fThemThamSo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:26:19.004Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "fThemCTPMH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fThemCTPMH.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fThemCTPMH.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fThemCTPMH.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fThemCTPMH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T18:13:27.53Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "fLoaiDichVu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fLoaiDichVu.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fLoaiDichVu.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fLoaiDichVu.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fLoaiDichVu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:18:33.432Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\DAO\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\DAO\\DataProvider.cs",
+              "RelativeToolTip": "QLCHVBDQ\\DAO\\DataProvider.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:17:36.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "fDichVu.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fDichVu.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fDichVu.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fDichVu.cs",
+              "RelativeToolTip": "QLCHVBDQ\\fDichVu.cs",
+              "ViewState": "AQIAAPcAAAAAAAAAAAAiwFABAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:15:52.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "fDichVu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fDichVu.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fDichVu.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fDichVu.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fDichVu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:14:32.94Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "fCTPMH.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fCTPMH.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fCTPMH.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fCTPMH.cs",
+              "RelativeToolTip": "QLCHVBDQ\\fCTPMH.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:27:24.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "fCTPMH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fCTPMH.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fCTPMH.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fCTPMH.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fCTPMH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:26:11.591Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "fThemPMH.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fThemPMH.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fThemPMH.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fThemPMH.cs",
+              "RelativeToolTip": "QLCHVBDQ\\fThemPMH.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:08:35.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "fThemPMH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fThemPMH.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fThemPMH.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fThemPMH.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fThemPMH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:03:07.021Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fMuaHang.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fMuaHang.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fMuaHang.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fMuaHang.cs",
+              "RelativeToolTip": "QLCHVBDQ\\fMuaHang.cs",
+              "ViewState": "AQIAAN4BAAAAAAAAAAAWwOcBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:57:07.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fMuaHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fMuaHang.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fMuaHang.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\Zalo Received Files\\QLCHVBDQ\\QLCHVBDQ\\QLCHVBDQ\\fMuaHang.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fMuaHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:56:55.556Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
