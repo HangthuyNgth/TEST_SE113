@@ -21,7 +21,7 @@ namespace QLCHVBDQ.DAO
 
         private DataProvider() { }
 
-        private string connectionSTR = "Server=HuyNK\\SQLEXPRESS;Database=QLVBDQ;User Id=HuyKhanh;Password=123456";
+        private string connectionSTR = "Server=LAP-CHAN\\SQLEXPRESS;Database=QLVBDQ;User Id=sa;Password=123";
 
         public DataTable ExecuteQuery(string query, SqlParameter[] parameters = null)
         {
