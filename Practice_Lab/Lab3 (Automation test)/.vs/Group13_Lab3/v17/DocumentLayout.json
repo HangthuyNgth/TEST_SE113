@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\UIT\\HK7(Nam4)\\Tester\\TEST_SE113\\Practice_Lab\\Lab3 (Automation test)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6D145E-5380-4689-87D5-8F59ADE01A9C}|MainTest\\MainTest.csproj|f:\\uit\\hk7(nam4)\\tester\\test_se113\\practice_lab\\lab3 (automation test)\\maintest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E6D145E-5380-4689-87D5-8F59ADE01A9C}|MainTest\\MainTest.csproj|solutionrelative:maintest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E6D145E-5380-4689-87D5-8F59ADE01A9C}|MainTest\\MainTest.csproj|f:\\uit\\hk7(nam4)\\tester\\test_se113\\practice_lab\\lab3 (automation test)\\maintest\\maintest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E6D145E-5380-4689-87D5-8F59ADE01A9C}|MainTest\\MainTest.csproj|solutionrelative:maintest\\maintest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA2621D-8CEF-4383-AD41-31D8D93D0F73}|Group13_Lab3\\Group13_Lab3.csproj|f:\\uit\\hk7(nam4)\\tester\\test_se113\\practice_lab\\lab3 (automation test)\\group13_lab3\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA2621D-8CEF-4383-AD41-31D8D93D0F73}|Group13_Lab3\\Group13_Lab3.csproj|solutionrelative:group13_lab3\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA2621D-8CEF-4383-AD41-31D8D93D0F73}|Group13_Lab3\\Group13_Lab3.csproj|f:\\uit\\hk7(nam4)\\tester\\test_se113\\practice_lab\\lab3 (automation test)\\group13_lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA2621D-8CEF-4383-AD41-31D8D93D0F73}|Group13_Lab3\\Group13_Lab3.csproj|solutionrelative:group13_lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "F:\\UIT\\HK7(Nam4)\\Tester\\TEST_SE113\\Practice_Lab\\Lab3 (Automation test)\\MainTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MainTest\\UnitTest1.cs",
+              "ToolTip": "F:\\UIT\\HK7(Nam4)\\Tester\\TEST_SE113\\Practice_Lab\\Lab3 (Automation test)\\MainTest\\UnitTest1.cs",
+              "RelativeToolTip": "MainTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:20:32.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainTest.csproj",
+              "DocumentMoniker": "F:\\UIT\\HK7(Nam4)\\Tester\\TEST_SE113\\Practice_Lab\\Lab3 (Automation test)\\MainTest\\MainTest.csproj",
+              "RelativeDocumentMoniker": "MainTest\\MainTest.csproj",
+              "ToolTip": "F:\\UIT\\HK7(Nam4)\\Tester\\TEST_SE113\\Practice_Lab\\Lab3 (Automation test)\\MainTest\\MainTest.csproj",
+              "RelativeToolTip": "MainTest\\MainTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T15:38:51.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "F:\\UIT\\HK7(Nam4)\\Tester\\TEST_SE113\\Practice_Lab\\Lab3 (Automation test)\\Group13_Lab3\\Main.cs",
+              "RelativeDocumentMoniker": "Group13_Lab3\\Main.cs",
+              "ToolTip": "F:\\UIT\\HK7(Nam4)\\Tester\\TEST_SE113\\Practice_Lab\\Lab3 (Automation test)\\Group13_Lab3\\Main.cs",
+              "RelativeToolTip": "Group13_Lab3\\Main.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:13:37.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\UIT\\HK7(Nam4)\\Tester\\TEST_SE113\\Practice_Lab\\Lab3 (Automation test)\\Group13_Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "Group13_Lab3\\Program.cs",
+              "ToolTip": "F:\\UIT\\HK7(Nam4)\\Tester\\TEST_SE113\\Practice_Lab\\Lab3 (Automation test)\\Group13_Lab3\\Program.cs",
+              "RelativeToolTip": "Group13_Lab3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:12:53.093Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

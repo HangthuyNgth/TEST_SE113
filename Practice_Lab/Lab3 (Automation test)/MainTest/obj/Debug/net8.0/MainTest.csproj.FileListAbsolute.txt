@@ -1,0 +1,783 @@
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\CoverletSourceRootsMapping_MainTest
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\testhost.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\Group13_Lab3.deps.json
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\Group13_Lab3.runtimeconfig.json
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\Group13_Lab3.exe
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\testhost.exe
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\node\win32_x64\node.exe
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\node\win32_x64\playwright.cmd
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\node\LICENSE
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\api.json
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\bin\android-driver-target.apk
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\bin\android-driver.apk
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\bin\container_install_deps.sh
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\bin\container_run_server.sh
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\bin\install_media_pack.ps1
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\bin\PrintDeps.exe
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\bin\README.md
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_beta_linux.sh
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_beta_mac.sh
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_beta_win.ps1
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_stable_linux.sh
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_stable_mac.sh
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_stable_win.ps1
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_beta_linux.sh
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_beta_mac.sh
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_beta_win.ps1
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_dev_linux.sh
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_dev_mac.sh
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_dev_win.ps1
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_stable_linux.sh
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_stable_mac.sh
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_stable_win.ps1
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\browsers.json
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\cli.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\index.d.ts
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\index.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\index.mjs
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\browserServerImpl.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\accessibility.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\android.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\api.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\artifact.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\browser.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\browserContext.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\browserType.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\cdpSession.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\channelOwner.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\clientHelper.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\clientInstrumentation.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\connection.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\consoleMessage.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\coverage.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\dialog.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\download.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\electron.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\elementHandle.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\events.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\fetch.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\fileChooser.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\frame.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\harRouter.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\input.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\joiningEventEmitter.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\jsHandle.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\jsonPipe.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\localUtils.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\locator.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\network.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\page.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\playwright.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\selectors.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\stream.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\tracing.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\types.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\video.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\waiter.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\worker.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\writableStream.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\cli\cli.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\cli\driver.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\common\debugLogger.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\common\errors.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\common\netUtils.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\common\socksProxy.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\common\timeoutSettings.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\common\types.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\common\userAgent.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\containers\docker.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\containers\dockerApi.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\generated\consoleApiSource.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\generated\injectedScriptSource.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\generated\recorderSource.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\generated\utilityScriptSource.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\grid\githubGridFactory.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\grid\gridAgent.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\grid\gridBrowserWorker.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\grid\gridServer.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\grid\simpleGridFactory.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\inprocess.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\inProcessFactory.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\outofprocess.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\protocol\debug.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\protocol\serializers.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\protocol\transport.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\protocol\validator.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\protocol\validatorPrimitives.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\remote\playwrightConnection.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\remote\playwrightServer.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\accessibility.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\android\android.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\android\backendAdb.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\artifact.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\browser.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\browserContext.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\browserType.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\appIcon.png
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\chromium.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crAccessibility.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crApp.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crBrowser.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crConnection.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crCoverage.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crDevTools.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crDragDrop.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crExecutionContext.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crInput.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crNetworkManager.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crPage.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crPdf.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crProtocolHelper.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crServiceWorker.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\defaultFontFamilies.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\videoRecorder.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\console.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\cookieStore.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\debugController.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\debugger.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\deviceDescriptors.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\deviceDescriptorsSource.json
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dialog.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\androidDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\artifactDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\browserContextDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\browserDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\browserTypeDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\cdpSessionDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\consoleMessageDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\debugControllerDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\dialogDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\dispatcher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\electronDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\elementHandlerDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\frameDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\jsHandleDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\jsonPipeDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\localUtilsDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\networkDispatchers.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\pageDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\playwrightDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\selectorsDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\streamDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\tracingDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\writableStreamDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dom.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\download.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\electron\electron.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\fetch.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\fileChooser.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffAccessibility.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffBrowser.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffConnection.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffExecutionContext.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffInput.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffNetworkManager.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffPage.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\firefox\firefox.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\formData.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\frames.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\har\harRecorder.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\har\harTracer.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\helper.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\index.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\input.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\instrumentation.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\isomorphic\cssParser.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\isomorphic\cssTokenizer.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\isomorphic\locatorGenerators.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\isomorphic\selectorParser.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\isomorphic\utilityScriptSerializers.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\javascript.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\macEditingCommands.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\network.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\page.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\pipeTransport.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\playwright.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\progress.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\protocolError.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\recorder.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\recorder\codeGenerator.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\recorder\csharp.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\recorder\java.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\recorder\javascript.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\recorder\language.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\recorder\python.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\recorder\recorderActions.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\recorder\recorderApp.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\recorder\recorderUtils.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\recorder\utils.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\registry\browserFetcher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\registry\dependencies.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\registry\download.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\registry\index.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\registry\nativeDeps.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\registry\oopDownloadMain.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\screenshotter.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\selectors.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\trace\recorder\snapshotter.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\trace\recorder\snapshotterInjected.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\trace\recorder\tracing.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\trace\test\inMemorySnapshotter.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\trace\viewer\traceViewer.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\transport.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\types.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\usKeyboardLayout.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\webkit\webkit.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkAccessibility.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkBrowser.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkConnection.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkExecutionContext.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkInput.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkInterceptableRequest.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkPage.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkProvisionalPage.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkWorkers.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\third_party\diff_match_patch.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\third_party\pixelmatch.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\utilsBundle.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\utilsBundleImpl.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\comparators.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\eventsHelper.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\fileUtils.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\hostPlatform.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\httpServer.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\index.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\stringUtils.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\linuxUtils.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\manualPromise.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\mimeType.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\multimap.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\processLauncher.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\processLauncherCleanupEntrypoint.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\spawnAsync.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\stackTrace.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\timeoutRunner.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\zipFile.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\zones.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\htmlReport\index.html
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\recorder\assets\codicon.dcd00fb4.ttf
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\recorder\assets\index.be943575.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\recorder\assets\index.ff9b1db9.css
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\recorder\icon-16x16.png
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\recorder\icon-192x192.png
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\recorder\icon-256x256.png
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\recorder\icon-32x32.png
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\recorder\icon-384x384.png
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\recorder\icon-512x512.png
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\recorder\index.html
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\traceViewer\codicon.dcd00fb4.ttf
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\traceViewer\icon-16x16.png
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\traceViewer\icon-192x192.png
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\traceViewer\icon-256x256.png
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\traceViewer\icon-32x32.png
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\traceViewer\icon-384x384.png
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\traceViewer\icon-512x512.png
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\traceViewer\index.html
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\traceViewer\main.24b347b6.css
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\traceViewer\main.740bbc63.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\traceViewer\sw.bundle.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\zipBundle.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\lib\zipBundleImpl.js
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\package.json
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\protocol.yml
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\README.md
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\ThirdPartyNotices.txt
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\types\protocol.d.ts
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\types\structs.d.ts
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\.playwright\package\types\types.d.ts
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\playwright.ps1
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\nunit.engine.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\nunit.engine.api.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\nunit.engine.core.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\testcentric.engine.metadata.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\MainTest.deps.json
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\MainTest.runtimeconfig.json
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\MainTest.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\MainTest.pdb
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\Microsoft.Playwright.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\Microsoft.Playwright.NUnit.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\Microsoft.Playwright.TestAdapter.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\NuGet.Frameworks.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\nunit.framework.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\Group13_Lab3.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\bin\Debug\net8.0\Group13_Lab3.pdb
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\obj\Debug\net8.0\MainTest.csproj.AssemblyReference.cache
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\obj\Debug\net8.0\MainTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\obj\Debug\net8.0\MainTest.AssemblyInfoInputs.cache
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\obj\Debug\net8.0\MainTest.AssemblyInfo.cs
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\obj\Debug\net8.0\MainTest.csproj.CoreCompileInputs.cache
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\obj\Debug\net8.0\MainTest.csproj.Up2Date
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\obj\Debug\net8.0\MainTest.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\obj\Debug\net8.0\refint\MainTest.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\obj\Debug\net8.0\MainTest.pdb
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\obj\Debug\net8.0\MainTest.genruntimeconfig.cache
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\MainTest\obj\Debug\net8.0\ref\MainTest.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\CoverletSourceRootsMapping_MainTest
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\testhost.exe
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\testhost.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\node\win32_x64\node.exe
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\node\win32_x64\playwright.cmd
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\node\LICENSE
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\api.json
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\bin\android-driver-target.apk
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\bin\android-driver.apk
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\bin\container_install_deps.sh
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\bin\container_run_server.sh
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\bin\install_media_pack.ps1
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\bin\PrintDeps.exe
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\bin\README.md
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_beta_linux.sh
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_beta_mac.sh
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_beta_win.ps1
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_stable_linux.sh
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_stable_mac.sh
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_chrome_stable_win.ps1
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_beta_linux.sh
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_beta_mac.sh
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_beta_win.ps1
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_dev_linux.sh
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_dev_mac.sh
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_dev_win.ps1
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_stable_linux.sh
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_stable_mac.sh
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\bin\reinstall_msedge_stable_win.ps1
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\browsers.json
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\cli.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\index.d.ts
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\index.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\index.mjs
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\browserServerImpl.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\accessibility.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\android.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\api.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\artifact.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\browser.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\browserContext.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\browserType.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\cdpSession.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\channelOwner.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\clientHelper.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\clientInstrumentation.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\connection.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\consoleMessage.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\coverage.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\dialog.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\download.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\electron.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\elementHandle.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\events.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\fetch.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\fileChooser.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\frame.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\harRouter.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\input.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\joiningEventEmitter.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\jsHandle.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\jsonPipe.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\localUtils.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\locator.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\network.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\page.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\playwright.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\selectors.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\stream.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\tracing.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\types.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\video.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\waiter.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\worker.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\client\writableStream.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\cli\cli.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\cli\driver.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\common\debugLogger.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\common\errors.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\common\netUtils.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\common\socksProxy.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\common\timeoutSettings.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\common\types.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\common\userAgent.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\containers\docker.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\containers\dockerApi.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\generated\consoleApiSource.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\generated\injectedScriptSource.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\generated\recorderSource.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\generated\utilityScriptSource.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\grid\githubGridFactory.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\grid\gridAgent.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\grid\gridBrowserWorker.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\grid\gridServer.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\grid\simpleGridFactory.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\inprocess.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\inProcessFactory.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\outofprocess.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\protocol\debug.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\protocol\serializers.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\protocol\transport.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\protocol\validator.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\protocol\validatorPrimitives.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\remote\playwrightConnection.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\remote\playwrightServer.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\accessibility.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\android\android.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\android\backendAdb.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\artifact.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\browser.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\browserContext.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\browserType.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\appIcon.png
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\chromium.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crAccessibility.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crApp.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crBrowser.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crConnection.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crCoverage.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crDevTools.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crDragDrop.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crExecutionContext.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crInput.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crNetworkManager.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crPage.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crPdf.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crProtocolHelper.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\crServiceWorker.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\defaultFontFamilies.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\chromium\videoRecorder.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\console.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\cookieStore.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\debugController.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\debugger.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\deviceDescriptors.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\deviceDescriptorsSource.json
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dialog.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\androidDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\artifactDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\browserContextDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\browserDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\browserTypeDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\cdpSessionDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\consoleMessageDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\debugControllerDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\dialogDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\dispatcher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\electronDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\elementHandlerDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\frameDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\jsHandleDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\jsonPipeDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\localUtilsDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\networkDispatchers.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\pageDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\playwrightDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\selectorsDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\streamDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\tracingDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dispatchers\writableStreamDispatcher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\dom.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\download.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\electron\electron.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\fetch.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\fileChooser.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffAccessibility.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffBrowser.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffConnection.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffExecutionContext.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffInput.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffNetworkManager.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\firefox\ffPage.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\firefox\firefox.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\formData.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\frames.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\har\harRecorder.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\har\harTracer.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\helper.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\index.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\input.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\instrumentation.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\isomorphic\cssParser.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\isomorphic\cssTokenizer.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\isomorphic\locatorGenerators.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\isomorphic\selectorParser.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\isomorphic\utilityScriptSerializers.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\javascript.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\macEditingCommands.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\network.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\page.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\pipeTransport.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\playwright.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\progress.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\protocolError.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\recorder.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\recorder\codeGenerator.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\recorder\csharp.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\recorder\java.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\recorder\javascript.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\recorder\language.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\recorder\python.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\recorder\recorderActions.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\recorder\recorderApp.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\recorder\recorderUtils.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\recorder\utils.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\registry\browserFetcher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\registry\dependencies.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\registry\download.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\registry\index.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\registry\nativeDeps.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\registry\oopDownloadMain.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\screenshotter.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\selectors.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\trace\recorder\snapshotter.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\trace\recorder\snapshotterInjected.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\trace\recorder\tracing.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\trace\test\inMemorySnapshotter.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\trace\viewer\traceViewer.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\transport.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\types.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\usKeyboardLayout.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\webkit\webkit.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkAccessibility.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkBrowser.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkConnection.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkExecutionContext.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkInput.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkInterceptableRequest.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkPage.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkProvisionalPage.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\server\webkit\wkWorkers.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\third_party\diff_match_patch.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\third_party\pixelmatch.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\utilsBundle.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\utilsBundleImpl.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\comparators.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\eventsHelper.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\fileUtils.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\hostPlatform.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\httpServer.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\index.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\isomorphic\stringUtils.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\linuxUtils.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\manualPromise.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\mimeType.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\multimap.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\processLauncher.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\processLauncherCleanupEntrypoint.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\spawnAsync.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\stackTrace.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\timeoutRunner.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\zipFile.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\utils\zones.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\htmlReport\index.html
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\recorder\assets\codicon.dcd00fb4.ttf
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\recorder\assets\index.be943575.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\recorder\assets\index.ff9b1db9.css
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\recorder\icon-16x16.png
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\recorder\icon-192x192.png
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\recorder\icon-256x256.png
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\recorder\icon-32x32.png
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\recorder\icon-384x384.png
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\recorder\icon-512x512.png
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\recorder\index.html
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\traceViewer\codicon.dcd00fb4.ttf
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\traceViewer\icon-16x16.png
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\traceViewer\icon-192x192.png
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\traceViewer\icon-256x256.png
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\traceViewer\icon-32x32.png
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\traceViewer\icon-384x384.png
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\traceViewer\icon-512x512.png
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\traceViewer\index.html
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\traceViewer\main.24b347b6.css
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\traceViewer\main.740bbc63.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\webpack\traceViewer\sw.bundle.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\zipBundle.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\lib\zipBundleImpl.js
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\package.json
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\protocol.yml
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\README.md
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\ThirdPartyNotices.txt
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\types\protocol.d.ts
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\types\structs.d.ts
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\.playwright\package\types\types.d.ts
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\playwright.ps1
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\nunit.engine.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\nunit.engine.api.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\nunit.engine.core.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\testcentric.engine.metadata.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\Group13_Lab3.deps.json
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\Group13_Lab3.runtimeconfig.json
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\Group13_Lab3.exe
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\MainTest.deps.json
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\MainTest.runtimeconfig.json
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\MainTest.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\MainTest.pdb
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\Microsoft.Playwright.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\Microsoft.Playwright.NUnit.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\Microsoft.Playwright.TestAdapter.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\NuGet.Frameworks.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\nunit.framework.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\Group13_Lab3.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\bin\Debug\net8.0\Group13_Lab3.pdb
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\obj\Debug\net8.0\MainTest.csproj.AssemblyReference.cache
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\obj\Debug\net8.0\MainTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\obj\Debug\net8.0\MainTest.AssemblyInfoInputs.cache
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\obj\Debug\net8.0\MainTest.AssemblyInfo.cs
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\obj\Debug\net8.0\MainTest.csproj.CoreCompileInputs.cache
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\obj\Debug\net8.0\MainTest.sourcelink.json
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\obj\Debug\net8.0\MainTest.csproj.Up2Date
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\obj\Debug\net8.0\MainTest.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\obj\Debug\net8.0\refint\MainTest.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\obj\Debug\net8.0\MainTest.pdb
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\obj\Debug\net8.0\MainTest.genruntimeconfig.cache
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\MainTest\obj\Debug\net8.0\ref\MainTest.dll

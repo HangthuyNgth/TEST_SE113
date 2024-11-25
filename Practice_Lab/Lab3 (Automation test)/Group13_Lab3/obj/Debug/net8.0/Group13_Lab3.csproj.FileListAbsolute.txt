@@ -1,0 +1,29 @@
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\Group13_Lab3\bin\Debug\net8.0\Group13_Lab3.exe
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\Group13_Lab3\bin\Debug\net8.0\Group13_Lab3.deps.json
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\Group13_Lab3\bin\Debug\net8.0\Group13_Lab3.runtimeconfig.json
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\Group13_Lab3\bin\Debug\net8.0\Group13_Lab3.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\Group13_Lab3\bin\Debug\net8.0\Group13_Lab3.pdb
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\Group13_Lab3\obj\Debug\net8.0\Group13_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\Group13_Lab3\obj\Debug\net8.0\Group13_Lab3.AssemblyInfoInputs.cache
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\Group13_Lab3\obj\Debug\net8.0\Group13_Lab3.AssemblyInfo.cs
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\Group13_Lab3\obj\Debug\net8.0\Group13_Lab3.csproj.CoreCompileInputs.cache
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\Group13_Lab3\obj\Debug\net8.0\Group13_Lab3.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\Group13_Lab3\obj\Debug\net8.0\refint\Group13_Lab3.dll
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\Group13_Lab3\obj\Debug\net8.0\Group13_Lab3.pdb
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\Group13_Lab3\obj\Debug\net8.0\Group13_Lab3.genruntimeconfig.cache
+F:\UIT\HK7(Nam4)\Tester\LAP\Group13_Lab3\Group13_Lab3\obj\Debug\net8.0\ref\Group13_Lab3.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\Group13_Lab3\bin\Debug\net8.0\Group13_Lab3.exe
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\Group13_Lab3\bin\Debug\net8.0\Group13_Lab3.deps.json
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\Group13_Lab3\bin\Debug\net8.0\Group13_Lab3.runtimeconfig.json
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\Group13_Lab3\bin\Debug\net8.0\Group13_Lab3.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\Group13_Lab3\bin\Debug\net8.0\Group13_Lab3.pdb
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\Group13_Lab3\obj\Debug\net8.0\Group13_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\Group13_Lab3\obj\Debug\net8.0\Group13_Lab3.AssemblyInfoInputs.cache
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\Group13_Lab3\obj\Debug\net8.0\Group13_Lab3.AssemblyInfo.cs
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\Group13_Lab3\obj\Debug\net8.0\Group13_Lab3.csproj.CoreCompileInputs.cache
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\Group13_Lab3\obj\Debug\net8.0\Group13_Lab3.sourcelink.json
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\Group13_Lab3\obj\Debug\net8.0\Group13_Lab3.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\Group13_Lab3\obj\Debug\net8.0\refint\Group13_Lab3.dll
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\Group13_Lab3\obj\Debug\net8.0\Group13_Lab3.pdb
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\Group13_Lab3\obj\Debug\net8.0\Group13_Lab3.genruntimeconfig.cache
+F:\UIT\HK7(Nam4)\Tester\TEST_SE113\Practice_Lab\Lab3 (Automation test)\Group13_Lab3\obj\Debug\net8.0\ref\Group13_Lab3.dll

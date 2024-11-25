@@ -1,0 +1,659 @@
+D:\STUDY\HK4\SE104-NMCNPM\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\QLCHVBDQ.exe.config
+D:\STUDY\HK4\SE104-NMCNPM\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\QLCHVBDQ.exe
+D:\STUDY\HK4\SE104-NMCNPM\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\QLCHVBDQ.pdb
+D:\STUDY\HK4\SE104-NMCNPM\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csprojAssemblyReference.cache
+D:\STUDY\HK4\SE104-NMCNPM\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.Properties.Resources.resources
+D:\STUDY\HK4\SE104-NMCNPM\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.GenerateResource.cache
+D:\STUDY\HK4\SE104-NMCNPM\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.CoreCompileInputs.cache
+D:\STUDY\HK4\SE104-NMCNPM\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.exe
+D:\STUDY\HK4\SE104-NMCNPM\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.pdb
+D:\STUDY\HK4\SE104-NMCNPM\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLogin.resources
+D:\STUDY\HK4\SE104-NMCNPM\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fTrangChu.resources
+D:\STUDY\HK4\SE104-NMCNPM\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fDangKy.resources
+D:\STUDY\HK4\SE104-NMCNPM\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fDichVu.resources
+D:\STUDY\HK4\SE104-NMCNPM\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Data.SqlClient.dll
+D:\STUDY\HK4\SE104-NMCNPM\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Data.SqlClient.xml
+D:\STUDY\HK4\SE104-NMCNPM\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.CopyComplete
+D:\STUDY\HK4\SE104-NMCNPM\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\EntityFramework.dll
+D:\STUDY\HK4\SE104-NMCNPM\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\EntityFramework.xml
+D:\STUDY\HK4\SE104-NMCNPM\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemPDV.resources
+D:\STUDY\HK4\SE104-NMCNPM\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fChiTietPDV.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\bin\Debug\QLCHVBDQ.exe.config
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\bin\Debug\QLCHVBDQ.exe
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\bin\Debug\QLCHVBDQ.pdb
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\bin\Debug\EntityFramework.dll
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Data.SqlClient.dll
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\bin\Debug\EntityFramework.xml
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Data.SqlClient.xml
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csprojAssemblyReference.cache
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fChiTietPDV.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fDangKy.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fDichVu.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLogin.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemPDV.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fTrangChu.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.Properties.Resources.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.GenerateResource.cache
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.CoreCompileInputs.cache
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.CopyComplete
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.exe
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.pdb
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemCTPDV.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fSanPham.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fBanHang.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fBaoCao.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLoaiDichVu.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLoaiSanPham.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fMuaHang.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fNhaCungCap.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemLoaiSP.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemSP.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemLDV.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemNCC.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemPBH.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemCTPBH.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCTPBH.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemPMH.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCTPMH.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemCTPMH.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThongTinTaiKhoan.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLuuThongTinTaiKhoan.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCaiDat.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fNhanVien.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fDVT.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemDVT.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fTLTT.resources
+D:\STUDY\HK4\SE104-NMCNPM\-SE104-CNPM\-SE104-CNPM\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCTBCTK.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.AssemblyReference.cache
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.exe
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.pdb
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\QLCHVBDQ.exe.config
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\QLCHVBDQ.exe
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\QLCHVBDQ.pdb
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\EntityFramework.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Data.SqlClient.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\EntityFramework.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Data.SqlClient.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fBanHang.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fBaoCao.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCaiDat.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fChiTietPDV.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCTBCTK.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCTPBH.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCTPMH.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fDangKy.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fDichVu.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fDVT.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLoaiDichVu.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLoaiSanPham.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLogin.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLuuThongTinTaiKhoan.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fMuaHang.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fNhaCungCap.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fNhanVien.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fSanPham.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemCTPBH.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemCTPDV.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemCTPMH.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemDVT.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemLDV.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemLoaiSP.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemNCC.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemPBH.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemPDV.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemPMH.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThongTinTaiKhoan.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fTLTT.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fTrangChu.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.Properties.Resources.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemSP.resources
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.GenerateResource.cache
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.CoreCompileInputs.cache
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.CopyComplete
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.barcodes.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.bouncy-castle-connector.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.commons.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.forms.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.io.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.kernel.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.layout.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.pdfa.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.pdfua.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.sign.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.styledxmlparser.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.svg.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Options.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\Newtonsoft.Json.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Buffers.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Memory.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Numerics.Vectors.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.ValueTuple.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.barcodes.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.bouncy-castle-connector.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.commons.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.forms.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.io.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.kernel.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.layout.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.pdfa.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.pdfua.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.sign.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.styledxmlparser.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.svg.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Options.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\Newtonsoft.Json.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Buffers.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Memory.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Numerics.Vectors.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.ValueTuple.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\BouncyCastle.Cryptography.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.bouncy-castle-adapter.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\BouncyCastle.Cryptography.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.bouncy-castle-adapter.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\ClosedXML.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\DocumentFormat.OpenXml.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\ExcelNumberFormat.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\Irony.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\SixLabors.Fonts.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.IO.Packaging.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\XLParser.dll
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\ClosedXML.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\DocumentFormat.OpenXml.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\ExcelNumberFormat.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\SixLabors.Fonts.xml
+D:\SE104-CNPM-main\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.IO.Packaging.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\QLCHVBDQ.exe.config
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\QLCHVBDQ.exe
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\QLCHVBDQ.pdb
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\ClosedXML.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\ExcelNumberFormat.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\Irony.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.barcodes.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.bouncy-castle-adapter.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.commons.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.forms.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.io.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.kernel.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.layout.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.pdfa.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.pdfua.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.sign.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.styledxmlparser.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.svg.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\SixLabors.Fonts.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Data.SqlClient.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.IO.Packaging.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Memory.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\XLParser.dll
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\ClosedXML.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\ExcelNumberFormat.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.barcodes.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.bouncy-castle-adapter.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.commons.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.forms.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.io.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.kernel.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.layout.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.pdfa.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.pdfua.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.sign.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.styledxmlparser.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.svg.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\SixLabors.Fonts.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Data.SqlClient.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.IO.Packaging.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Memory.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fBanHang.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fBaoCao.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCaiDat.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fChiTietPDV.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCTBCTK.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCTPBH.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCTPMH.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fDangKy.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fDichVu.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fDVT.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLoaiDichVu.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLoaiSanPham.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLogin.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLuuThongTinTaiKhoan.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fMuaHang.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fNhaCungCap.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fNhanVien.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fSanPham.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemCTPBH.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemCTPDV.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemCTPMH.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemDVT.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemLDV.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemLoaiSP.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemNCC.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemPBH.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemPDV.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemPMH.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThongTinTaiKhoan.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fTLTT.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fTrangChu.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.Properties.Resources.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemSP.resources
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.Up2Date
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.exe
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.pdb
+C:\Users\DELL\Documents\Zalo Received Files\QLCHVBDQ\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemThamSo.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\QLCHVBDQ.exe.config
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\QLCHVBDQ.exe
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\QLCHVBDQ.pdb
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\ClosedXML.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\EntityFramework.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\Irony.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.barcodes.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.bouncy-castle-adapter.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.commons.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.forms.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.io.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.kernel.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.layout.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.pdfa.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.pdfua.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.sign.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.svg.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Buffers.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.IO.Packaging.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Memory.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.ValueTuple.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\XLParser.dll
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\ClosedXML.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\EntityFramework.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.barcodes.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.bouncy-castle-adapter.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.commons.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.forms.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.io.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.kernel.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.layout.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.pdfa.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.pdfua.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.sign.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.svg.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Buffers.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.IO.Packaging.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Memory.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.ValueTuple.xml
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.AssemblyReference.cache
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fBanHang.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fBaoCao.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCaiDat.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fChiTietPDV.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCTBCTK.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCTPBH.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCTPMH.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fDangKy.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fDichVu.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fDVT.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLoaiDichVu.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLoaiSanPham.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLogin.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLuuThongTinTaiKhoan.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fMuaHang.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fNhaCungCap.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fNhanVien.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fSanPham.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemCTPBH.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemCTPDV.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemCTPMH.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemDVT.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemLDV.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemLoaiSP.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemNCC.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemPBH.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemPDV.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemPMH.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemThamSo.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThongTinTaiKhoan.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fTLTT.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fTrangChu.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.Properties.Resources.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemSP.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.GenerateResource.cache
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.CoreCompileInputs.cache
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.CopyComplete
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.exe
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.pdb
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fSuaLDV.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fSuaLSP.resources
+C:\Users\Huy\OneDrive\Hình ảnh\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fSuaNCC.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\QLCHVBDQ.exe.config
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\QLCHVBDQ.exe
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\QLCHVBDQ.pdb
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\ClosedXML.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\ExcelNumberFormat.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\Irony.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.barcodes.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.bouncy-castle-adapter.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.commons.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.forms.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.io.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.kernel.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.layout.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.pdfa.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.pdfua.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.sign.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.styledxmlparser.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.svg.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\SixLabors.Fonts.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.IO.Packaging.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Memory.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\XLParser.dll
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\ClosedXML.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\ExcelNumberFormat.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.barcodes.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.bouncy-castle-adapter.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.commons.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.forms.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.io.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.kernel.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.layout.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.pdfa.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.pdfua.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.sign.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.styledxmlparser.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.svg.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\SixLabors.Fonts.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Data.SqlClient.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.IO.Packaging.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Memory.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fBanHang.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fBaoCao.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCaiDat.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fChiTietPDV.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCTBCTK.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCTPBH.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCTPMH.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fDangKy.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fDichVu.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fDVT.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLoaiDichVu.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLoaiSanPham.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLogin.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLuuThongTinTaiKhoan.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fMuaHang.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fNhaCungCap.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fNhanVien.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fSanPham.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fSuaLDV.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fSuaLSP.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fSuaNCC.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemCTPBH.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemCTPDV.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemCTPMH.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemDVT.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemLDV.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemLoaiSP.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemNCC.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemPBH.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemPDV.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemPMH.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemThamSo.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThongTinTaiKhoan.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fTLTT.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fTrangChu.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.Properties.Resources.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemSP.resources
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.Up2Date
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.exe
+C:\Users\DELL\Downloads\day_ne\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.pdb
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\QLCHVBDQ.exe.config
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\QLCHVBDQ.exe
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\QLCHVBDQ.pdb
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\ClosedXML.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\ExcelNumberFormat.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\Irony.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.barcodes.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.bouncy-castle-adapter.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.commons.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.forms.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.io.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.kernel.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.layout.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.pdfa.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.pdfua.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.sign.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.styledxmlparser.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.svg.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\SixLabors.Fonts.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Data.SqlClient.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.IO.Packaging.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Memory.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.ValueTuple.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\XLParser.dll
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\ClosedXML.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\ExcelNumberFormat.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.barcodes.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.bouncy-castle-adapter.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.commons.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.forms.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.io.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.kernel.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.layout.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.pdfa.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.pdfua.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.sign.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.styledxmlparser.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\itext.svg.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\SixLabors.Fonts.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Data.SqlClient.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.IO.Packaging.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Memory.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\bin\Debug\System.ValueTuple.xml
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fBanHang.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fBaoCao.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCaiDat.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fChiTietPDV.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCTBCTK.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCTPBH.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fCTPMH.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fDangKy.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fDichVu.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fDVT.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLoaiDichVu.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLoaiSanPham.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLogin.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fLuuThongTinTaiKhoan.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fMuaHang.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fNhaCungCap.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fNhanVien.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fSanPham.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fSuaLDV.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fSuaLSP.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fSuaNCC.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemCTPBH.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemCTPDV.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemCTPMH.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemDVT.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemLDV.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemLoaiSP.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemNCC.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemPBH.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemPDV.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemPMH.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemThamSo.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThongTinTaiKhoan.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fTLTT.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fTrangChu.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.Properties.Resources.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.fThemSP.resources
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.csproj.Up2Date
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.exe
+C:\Users\DELL\Downloads\QLCHVBDQ (3)\QLCHVBDQ\QLCHVBDQ\obj\Debug\QLCHVBDQ.pdb

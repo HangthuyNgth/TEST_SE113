@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A7756-235D-4E15-9B3D-257BF4B8E8FC}|QLCHVBDQTests\\QLCHVBDQTests.csproj|c:\\users\\dell\\downloads\\qlchvbdq (3)\\qlchvbdq\\qlchvbdqtests\\tests\\fctpmhtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2A7756-235D-4E15-9B3D-257BF4B8E8FC}|QLCHVBDQTests\\QLCHVBDQTests.csproj|solutionrelative:qlchvbdqtests\\tests\\fctpmhtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fThemPBH.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:QLCHVBDQ\\fThemPBH.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A7756-235D-4E15-9B3D-257BF4B8E8FC}|QLCHVBDQTests\\QLCHVBDQTests.csproj|C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQTests\\Tests\\fThemPBHTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2A7756-235D-4E15-9B3D-257BF4B8E8FC}|QLCHVBDQTests\\QLCHVBDQTests.csproj|solutionrelative:QLCHVBDQTests\\Tests\\fThemPBHTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A7756-235D-4E15-9B3D-257BF4B8E8FC}|QLCHVBDQTests\\QLCHVBDQTests.csproj|C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQTests\\Tests\\fThemNCCTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2A7756-235D-4E15-9B3D-257BF4B8E8FC}|QLCHVBDQTests\\QLCHVBDQTests.csproj|solutionrelative:QLCHVBDQTests\\Tests\\fThemNCCTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fThemNCC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:QLCHVBDQ\\fThemNCC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\DAO\\SanPhamDAO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:QLCHVBDQ\\DAO\\SanPhamDAO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A7756-235D-4E15-9B3D-257BF4B8E8FC}|QLCHVBDQTests\\QLCHVBDQTests.csproj|C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQTests\\Tests\\fXoaSPTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2A7756-235D-4E15-9B3D-257BF4B8E8FC}|QLCHVBDQTests\\QLCHVBDQTests.csproj|solutionrelative:QLCHVBDQTests\\Tests\\fXoaSPTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2A7756-235D-4E15-9B3D-257BF4B8E8FC}|QLCHVBDQTests\\QLCHVBDQTests.csproj|C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQTests\\Tests\\fThemSPTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2A7756-235D-4E15-9B3D-257BF4B8E8FC}|QLCHVBDQTests\\QLCHVBDQTests.csproj|solutionrelative:QLCHVBDQTests\\Tests\\fThemSPTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fSanPham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:QLCHVBDQ\\fSanPham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fCTPMH.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:QLCHVBDQ\\fCTPMH.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fThemPMH.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:QLCHVBDQ\\fThemPMH.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\qlchvbdq\\fthempbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fthempbh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\qlchvbdq\\fthemncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fthemncc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\qlchvbdq\\fsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\qlchvbdq\\fctpmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fctpmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\qlchvbdq\\fthempmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6C8820D-5972-4B8D-B23E-7317382579B4}|QLCHVBDQ\\QLCHVBDQ.csproj|solutionrelative:qlchvbdq\\fthempmh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 198,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fCTPMHTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQTests\\Tests\\fCTPMHTests.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQTests\\Tests\\fCTPMHTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQTests\\Tests\\fCTPMHTests.cs",
+              "RelativeToolTip": "QLCHVBDQTests\\Tests\\fCTPMHTests.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:59:52.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fThemPBH.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fThemPBH.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fThemPBH.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fThemPBH.cs",
+              "RelativeToolTip": "QLCHVBDQ\\fThemPBH.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:48:38.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fThemPBHTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQTests\\Tests\\fThemPBHTests.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQTests\\Tests\\fThemPBHTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQTests\\Tests\\fThemPBHTests.cs",
+              "RelativeToolTip": "QLCHVBDQTests\\Tests\\fThemPBHTests.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAiwKYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:39:00.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fThemNCCTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQTests\\Tests\\fThemNCCTests.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQTests\\Tests\\fThemNCCTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQTests\\Tests\\fThemNCCTests.cs",
+              "RelativeToolTip": "QLCHVBDQTests\\Tests\\fThemNCCTests.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwHkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:36:11.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fThemNCC.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fThemNCC.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fThemNCC.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fThemNCC.cs",
+              "RelativeToolTip": "QLCHVBDQ\\fThemNCC.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwCQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:35:23.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SanPhamDAO.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\DAO\\SanPhamDAO.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\DAO\\SanPhamDAO.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\DAO\\SanPhamDAO.cs",
+              "RelativeToolTip": "QLCHVBDQ\\DAO\\SanPhamDAO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:26:32.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fXoaSPTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQTests\\Tests\\fXoaSPTests.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQTests\\Tests\\fXoaSPTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQTests\\Tests\\fXoaSPTests.cs",
+              "RelativeToolTip": "QLCHVBDQTests\\Tests\\fXoaSPTests.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwCMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:22:38.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "fThemSPTests.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQTests\\Tests\\fThemSPTests.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQTests\\Tests\\fThemSPTests.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQTests\\Tests\\fThemSPTests.cs",
+              "RelativeToolTip": "QLCHVBDQTests\\Tests\\fThemSPTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:25:00.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fSanPham.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fSanPham.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fSanPham.cs",
+              "RelativeToolTip": "QLCHVBDQ\\fSanPham.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:46:32.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "fCTPMH.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fCTPMH.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fCTPMH.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fCTPMH.cs",
+              "RelativeToolTip": "QLCHVBDQ\\fCTPMH.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAwwGQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:27:24.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fThemPMH.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fThemPMH.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fThemPMH.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fThemPMH.cs",
+              "RelativeToolTip": "QLCHVBDQ\\fThemPMH.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwv1IAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:08:35.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "fThemPBH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fThemPBH.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fThemPBH.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fThemPBH.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fThemPBH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:48:15.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "fThemNCC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fThemNCC.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fThemNCC.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fThemNCC.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fThemNCC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:35:20.233Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "fSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fSanPham.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fSanPham.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fSanPham.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:46:31.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "fCTPMH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fCTPMH.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fCTPMH.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fCTPMH.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fCTPMH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:26:11.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "fThemPMH.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fThemPMH.cs",
+              "RelativeDocumentMoniker": "QLCHVBDQ\\fThemPMH.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\QLCHVBDQ (3)\\QLCHVBDQ\\QLCHVBDQ\\fThemPMH.cs [Design]",
+              "RelativeToolTip": "QLCHVBDQ\\fThemPMH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:03:07.021Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
