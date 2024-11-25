@@ -13,28 +13,23 @@ The goal of this testing project is to ensure that JMS software meets all qualit
 1. **Software Requirement Specification (SRS)**  
    The SRS document describes the functional and non-functional requirements for JMS, including system requirements, main features, performance, and security requirements. It serves as a key reference for project members during development and testing.
 
-2. **Source Code and Installation Guide**  
-   - **Source Code**: Contains the source code for the JMS software.
+2. **Installation Guide**  
    - **Installation Guide**: Detailed instructions for deploying and installing JMS on a computer for testing and usage.
 
-3. **Test Plan and Test Case Specification**  
+3. **Test Plan**  
    - **Test Plan**: A comprehensive testing plan with strategies and testing scope, ensuring all main features of the system are thoroughly tested.
-   - **Test Case Specification**: Detailed specifications for each test case executed during the testing process.
-
+     
 4. **Test Cases**  
-   - **Black-box Testing**: Functional testing based on system requirements without examining the internal structure.
-   - **White-box Testing**: Testing the internal structure of the system's source code.
-   - **Unit Testing**: Testing individual modules or functions using tools like JUnit or NUnit for key functionalities.
-   - **Automated Testing**: Automated testing of main features using tools like Selenium or Robot Framework. These tests are carried out in labs similar to Lab1, Lab2, and Lab3.
+   - **Test Cases**: Utilize both Black-box and White-box testing techniques to ensure comprehensive coverage.
+   - **Unit Test Cases**: Design and execute tests for individual modules or functions.
+   - **Unit Testing**: Perform unit testing on core functionalities using tools like NUnit.
+   - **Automated Testing**: Implement automated tests using tools TestComplete to streamline the testing process.
 
-5. **Test Report**  
-   A detailed report on testing outcomes, including the results of each test case, system performance, and software stability.
-
-6. **Defect and Bug List**  
+5. **Defect and Bug List**  
    A compilation of bugs found during testing, including bugs identified through static testing, document review, and code review.
 
-7. **Team Evaluation**  
-   Team member performance evaluations, using self-evaluation and peer-evaluation files as per the "Evaluation.rar" template.
+6. **Team Evaluation**  
+   Team member performance evaluations, using self-evaluation and peer-evaluation files
 
 ## Key Features of the JMS System
 
@@ -56,8 +51,8 @@ Upon project completion, we will provide:
 ## Tools Used
 
 - **Notion/Trello**: Task and progress management.
-- **Selenium Framework**: Automated testing.
-- **JUnit/NUnit**: Unit testing.
+- **TestComplete**: Automated testing.
+- **NUnit**: Unit testing.
 - **Agile/Scrum**: Methodology for project management.
 
 ---
